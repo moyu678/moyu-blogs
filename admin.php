@@ -1,3 +1,9 @@
+# ┌────────────────────────────────────────────────────────────────────┐
+# │  🐟  摸鱼博客 · MoyuBlogs                                          │
+# │  📦  开源地址 https://github.com/moyu678/moyu-blogs                │
+# │  💰  赞助地址 http://ifdian.net/a/jiadian                          │
+# └────────────────────────────────────────────────────────────────────┘
+
 <?php
 require_once __DIR__ . '/config.php';
 $action = $_GET['action'] ?? (is_admin() ? 'dashboard' : 'login');
