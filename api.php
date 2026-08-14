@@ -1,3 +1,9 @@
+# ┌────────────────────────────────────────────────────────────────────┐
+# │  🐟  摸鱼博客 · MoyuBlogs                                          │
+# │  📦  仓库地址 https://github.com/moyu678/moyu-blogs                │
+# │  💰  赞助地址 http://ifdian.net/a/jiadian                          │
+# └────────────────────────────────────────────────────────────────────┘
+
 <?php
 session_start();
 require_once __DIR__ . '/config.php';
